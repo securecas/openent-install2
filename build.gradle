@@ -122,3 +122,15 @@ clean.doFirst {
   delete "ent-core.json"
   delete "ent-core.embedded.json"
 }
+/* 
+deployment "fr.openent:competences:\$competencesVersion:deployment"
+deployment "fr.openent:presences:\$presencesVersion:deployment"
+deployment "fr.cgi:edt:\$edtVersion:deployment"
+deployment "fr.openent:incidents:\$incidentsVersion:deployment"
+deployment "fr.openent:statistics-presences:\$statisticsPresencesVersion:deployment"
+deployment "fr.openent:massmailing:\$massmailingVersion:deployment"
+deployment "fr.openent:formulaire:\$formulaireVersion:deployment"
+deployment "com.opendigitaleducation:explorer:\$explorerVersion:deployment"
+deployment "fr.openent:diary:\$diaryVersion:deployment"
+deployment "fr.openent:lool:\$loolVersion:deployment"
+*/
